@@ -1,0 +1,393 @@
+Referências/Complete-Python-3-Bootcamp-master/Jupyter (iPython) Notebooks Guide.ipynb
+Referências/Complete-Python-3-Bootcamp-master/Pierian_Data_Logo.png
+Referências/Complete-Python-3-Bootcamp-master/README.md
+Referências/Complete-Python-3-Bootcamp-master/.ipynb_checkpoints/Untitled-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/00-Python Object and Data Structure Basics/01-Numbers.ipynb
+Referências/Complete-Python-3-Bootcamp-master/00-Python Object and Data Structure Basics/01-Variable Assignment.ipynb
+Referências/Complete-Python-3-Bootcamp-master/00-Python Object and Data Structure Basics/02-Strings.ipynb
+Referências/Complete-Python-3-Bootcamp-master/00-Python Object and Data Structure Basics/03-Print Formatting with Strings.ipynb
+Referências/Complete-Python-3-Bootcamp-master/00-Python Object and Data Structure Basics/04-Lists.ipynb
+Referências/Complete-Python-3-Bootcamp-master/00-Python Object and Data Structure Basics/05-Dictionaries.ipynb
+Referências/Complete-Python-3-Bootcamp-master/00-Python Object and Data Structure Basics/06-Tuples.ipynb
+Referências/Complete-Python-3-Bootcamp-master/00-Python Object and Data Structure Basics/07-Sets and Booleans.ipynb
+Referências/Complete-Python-3-Bootcamp-master/00-Python Object and Data Structure Basics/08-Files.ipynb
+Referências/Complete-Python-3-Bootcamp-master/00-Python Object and Data Structure Basics/09-Objects and Data Structures Assessment Test.ipynb
+Referências/Complete-Python-3-Bootcamp-master/00-Python Object and Data Structure Basics/10-Objects and Data Structures Assessment Test-Solution.ipynb
+Referências/Complete-Python-3-Bootcamp-master/00-Python Object and Data Structure Basics/test.txt
+Referências/Complete-Python-3-Bootcamp-master/00-Python Object and Data Structure Basics/.ipynb_checkpoints/01-Numbers-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/00-Python Object and Data Structure Basics/.ipynb_checkpoints/01-Variable Assignment-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/00-Python Object and Data Structure Basics/.ipynb_checkpoints/02-Strings-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/00-Python Object and Data Structure Basics/.ipynb_checkpoints/03-Print Formatting with Strings-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/00-Python Object and Data Structure Basics/.ipynb_checkpoints/04-Lists-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/00-Python Object and Data Structure Basics/.ipynb_checkpoints/05-Dictionaries-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/00-Python Object and Data Structure Basics/.ipynb_checkpoints/06-Tuples-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/00-Python Object and Data Structure Basics/.ipynb_checkpoints/07-Sets and Booleans-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/00-Python Object and Data Structure Basics/.ipynb_checkpoints/08-Files-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/00-Python Object and Data Structure Basics/.ipynb_checkpoints/09-Objects and Data Structures Assessment Test-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/00-Python Object and Data Structure Basics/.ipynb_checkpoints/10-Objects and Data Structures Assessment Test-Solution-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/01-Python Comparison Operators/01-Comparison Operators.ipynb
+Referências/Complete-Python-3-Bootcamp-master/01-Python Comparison Operators/02-Chained Comparison Operators.ipynb
+Referências/Complete-Python-3-Bootcamp-master/01-Python Comparison Operators/.ipynb_checkpoints/01-Comparison Operators-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/01-Python Comparison Operators/.ipynb_checkpoints/02-Chained Comparison Operators-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/02-Python Statements/01-Introduction to Python Statements.ipynb
+Referências/Complete-Python-3-Bootcamp-master/02-Python Statements/02-if, elif, and else Statements.ipynb
+Referências/Complete-Python-3-Bootcamp-master/02-Python Statements/03-for Loops.ipynb
+Referências/Complete-Python-3-Bootcamp-master/02-Python Statements/04-while Loops.ipynb
+Referências/Complete-Python-3-Bootcamp-master/02-Python Statements/05-Useful-Operators.ipynb
+Referências/Complete-Python-3-Bootcamp-master/02-Python Statements/06-List Comprehensions.ipynb
+Referências/Complete-Python-3-Bootcamp-master/02-Python Statements/07-Statements Assessment Test.ipynb
+Referências/Complete-Python-3-Bootcamp-master/02-Python Statements/08-Statements Assessment Test - Solutions.ipynb
+Referências/Complete-Python-3-Bootcamp-master/02-Python Statements/09-Guessing Game Challenge.ipynb
+Referências/Complete-Python-3-Bootcamp-master/02-Python Statements/10-Guessing Game Challenge - Solution.ipynb
+Referências/Complete-Python-3-Bootcamp-master/02-Python Statements/.ipynb_checkpoints/01-Introduction to Python Statements-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/02-Python Statements/.ipynb_checkpoints/02-if, elif, and else Statements-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/02-Python Statements/.ipynb_checkpoints/03-for Loops-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/02-Python Statements/.ipynb_checkpoints/04-while Loops-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/02-Python Statements/.ipynb_checkpoints/05-range()-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/02-Python Statements/.ipynb_checkpoints/05-Useful-Operators-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/02-Python Statements/.ipynb_checkpoints/06-List Comprehensions-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/02-Python Statements/.ipynb_checkpoints/07-Statements Assessment Test-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/02-Python Statements/.ipynb_checkpoints/08-Statements Assessment Test - Solutions-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/02-Python Statements/.ipynb_checkpoints/09-Guessing Game Challenge-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/02-Python Statements/.ipynb_checkpoints/10-Guessing Game Challenge - Solution-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/03-Methods and Functions/01-Methods.ipynb
+Referências/Complete-Python-3-Bootcamp-master/03-Methods and Functions/02-Functions.ipynb
+Referências/Complete-Python-3-Bootcamp-master/03-Methods and Functions/03-Function Practice Exercises.ipynb
+Referências/Complete-Python-3-Bootcamp-master/03-Methods and Functions/04-Function Practice Exercises - Solutions.ipynb
+Referências/Complete-Python-3-Bootcamp-master/03-Methods and Functions/05-Lambda-Expressions-Map-and-Filter.ipynb
+Referências/Complete-Python-3-Bootcamp-master/03-Methods and Functions/06-Nested Statements and Scope.ipynb
+Referências/Complete-Python-3-Bootcamp-master/03-Methods and Functions/07-args and kwargs.ipynb
+Referências/Complete-Python-3-Bootcamp-master/03-Methods and Functions/08-Functions and Methods Homework.ipynb
+Referências/Complete-Python-3-Bootcamp-master/03-Methods and Functions/09-Functions and Methods Homework - Solutions.ipynb
+Referências/Complete-Python-3-Bootcamp-master/03-Methods and Functions/.ipynb_checkpoints/01-Methods-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/03-Methods and Functions/.ipynb_checkpoints/02-Functions-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/03-Methods and Functions/.ipynb_checkpoints/03-Function Practice Exercises-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/03-Methods and Functions/.ipynb_checkpoints/03-Lambda expressions-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/03-Methods and Functions/.ipynb_checkpoints/04-Function Practice Exercises - Solutions-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/03-Methods and Functions/.ipynb_checkpoints/04-Nested Statements and Scope-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/03-Methods and Functions/.ipynb_checkpoints/05-Functions and Methods Homework-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/03-Methods and Functions/.ipynb_checkpoints/05-Lambda-Expressions-Map-and-Filter-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/03-Methods and Functions/.ipynb_checkpoints/06-Functions and Methods Homework - Solutions-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/03-Methods and Functions/.ipynb_checkpoints/06-Nested Statements and Scope-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/03-Methods and Functions/.ipynb_checkpoints/07-args and kwargs-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/03-Methods and Functions/.ipynb_checkpoints/08-Function Practice Exercises-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/03-Methods and Functions/.ipynb_checkpoints/08-Functions and Methods Homework-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/03-Methods and Functions/.ipynb_checkpoints/09-Function Practice Exercises - Solutions-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/03-Methods and Functions/.ipynb_checkpoints/09-Functions and Methods Homework - Solutions-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/04-Milestone Project - 1/00-Warm-Up-Project-Exercises.ipynb
+Referências/Complete-Python-3-Bootcamp-master/04-Milestone Project - 1/01-Milestone Project 1 - Assignment.ipynb
+Referências/Complete-Python-3-Bootcamp-master/04-Milestone Project - 1/02-Milestone Project 1 - Walkthrough Steps Workbook.ipynb
+Referências/Complete-Python-3-Bootcamp-master/04-Milestone Project - 1/03-Milestone Project 1 - Complete Walkthrough Solution.ipynb
+Referências/Complete-Python-3-Bootcamp-master/04-Milestone Project - 1/.ipynb_checkpoints/00-Warm-Up-Project-Exercises-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/04-Milestone Project - 1/.ipynb_checkpoints/01-Milestone Project 1 - Assignment-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/04-Milestone Project - 1/.ipynb_checkpoints/02-Milestone Project 1 - Walkthrough Steps Workbook-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/04-Milestone Project - 1/.ipynb_checkpoints/03-Milestone Project 1 - Complete Walkthrough Solution-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/05-Object Oriented Programming/01-Object Oriented Programming.ipynb
+Referências/Complete-Python-3-Bootcamp-master/05-Object Oriented Programming/02-Object Oriented Programming Homework.ipynb
+Referências/Complete-Python-3-Bootcamp-master/05-Object Oriented Programming/03-Object Oriented Programming Homework - Solution.ipynb
+Referências/Complete-Python-3-Bootcamp-master/05-Object Oriented Programming/04-OOP Challenge.ipynb
+Referências/Complete-Python-3-Bootcamp-master/05-Object Oriented Programming/05-OOP Challenge - Solution.ipynb
+Referências/Complete-Python-3-Bootcamp-master/05-Object Oriented Programming/.ipynb_checkpoints/01-Object Oriented Programming-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/05-Object Oriented Programming/.ipynb_checkpoints/01-Object Oriented Programming-Copy1-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/05-Object Oriented Programming/.ipynb_checkpoints/02-Object Oriented Programming Homework-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/05-Object Oriented Programming/.ipynb_checkpoints/03-Object Oriented Programming Homework - Solution-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/05-Object Oriented Programming/.ipynb_checkpoints/04-OOP Challenge-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/05-Object Oriented Programming/.ipynb_checkpoints/05-OOP Challenge - Solution-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/06-Modules and Packages/Useful_Info_Notebook.ipynb
+Referências/Complete-Python-3-Bootcamp-master/06-Modules and Packages/.ipynb_checkpoints/01-Modules and Packages-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/06-Modules and Packages/.ipynb_checkpoints/Useful_Info_Notebook-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/06-Modules and Packages/00-Modules_and_Packages/mymodule.py
+Referências/Complete-Python-3-Bootcamp-master/06-Modules and Packages/00-Modules_and_Packages/myprogram.py
+Referências/Complete-Python-3-Bootcamp-master/06-Modules and Packages/00-Modules_and_Packages/MyMainPackage/__init__.py
+Referências/Complete-Python-3-Bootcamp-master/06-Modules and Packages/00-Modules_and_Packages/MyMainPackage/some_main_script.py
+Referências/Complete-Python-3-Bootcamp-master/06-Modules and Packages/00-Modules_and_Packages/MyMainPackage/SubPackage/__init__.py
+Referências/Complete-Python-3-Bootcamp-master/06-Modules and Packages/00-Modules_and_Packages/MyMainPackage/SubPackage/mysubscript.py
+Referências/Complete-Python-3-Bootcamp-master/06-Modules and Packages/00-Modules_and_Packages/MyMainPackage/SubPackage/__pycache__/__init__.cpython-36.pyc
+Referências/Complete-Python-3-Bootcamp-master/06-Modules and Packages/00-Modules_and_Packages/MyMainPackage/SubPackage/__pycache__/mysubscript.cpython-36.pyc
+Referências/Complete-Python-3-Bootcamp-master/06-Modules and Packages/00-Modules_and_Packages/MyMainPackage/__pycache__/__init__.cpython-36.pyc
+Referências/Complete-Python-3-Bootcamp-master/06-Modules and Packages/00-Modules_and_Packages/MyMainPackage/__pycache__/some_main_script.cpython-36.pyc
+Referências/Complete-Python-3-Bootcamp-master/06-Modules and Packages/01-Name_and_Main/Explanation.txt
+Referências/Complete-Python-3-Bootcamp-master/06-Modules and Packages/01-Name_and_Main/one.py
+Referências/Complete-Python-3-Bootcamp-master/06-Modules and Packages/01-Name_and_Main/two.py
+Referências/Complete-Python-3-Bootcamp-master/07-Errors and Exception Handling/01-Errors and Exceptions Handling.ipynb
+Referências/Complete-Python-3-Bootcamp-master/07-Errors and Exception Handling/02-Errors and Exceptions Homework.ipynb
+Referências/Complete-Python-3-Bootcamp-master/07-Errors and Exception Handling/03-Errors and Exceptions Homework - Solution.ipynb
+Referências/Complete-Python-3-Bootcamp-master/07-Errors and Exception Handling/04-Unit Testing.ipynb
+Referências/Complete-Python-3-Bootcamp-master/07-Errors and Exception Handling/cap.py
+Referências/Complete-Python-3-Bootcamp-master/07-Errors and Exception Handling/simple1.py
+Referências/Complete-Python-3-Bootcamp-master/07-Errors and Exception Handling/simple2.py
+Referências/Complete-Python-3-Bootcamp-master/07-Errors and Exception Handling/test_cap.py
+Referências/Complete-Python-3-Bootcamp-master/07-Errors and Exception Handling/testfile
+Referências/Complete-Python-3-Bootcamp-master/07-Errors and Exception Handling/.ipynb_checkpoints/01-Errors and Exceptions Handling-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/07-Errors and Exception Handling/.ipynb_checkpoints/02-Errors and Exceptions Homework-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/07-Errors and Exception Handling/.ipynb_checkpoints/03-Errors and Exceptions Homework - Solution-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/07-Errors and Exception Handling/.ipynb_checkpoints/04-Unit Testing-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/07-Errors and Exception Handling/__pycache__/cap.cpython-36.pyc
+Referências/Complete-Python-3-Bootcamp-master/08-Milestone Project - 2/00-Milestone-2-Warmup-Project.ipynb
+Referências/Complete-Python-3-Bootcamp-master/08-Milestone Project - 2/01-Milestone Project 2 - Assignment.ipynb
+Referências/Complete-Python-3-Bootcamp-master/08-Milestone Project - 2/02-Milestone Project 2 - Walkthrough Steps Workbook.ipynb
+Referências/Complete-Python-3-Bootcamp-master/08-Milestone Project - 2/03-Milestone Project 2 - Complete Walkthrough Solution.ipynb
+Referências/Complete-Python-3-Bootcamp-master/08-Milestone Project - 2/.ipynb_checkpoints/00-Milestone-2-Warmup-Project-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/08-Milestone Project - 2/.ipynb_checkpoints/01-Milestone Project 2 - Assignment-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/08-Milestone Project - 2/.ipynb_checkpoints/02-Milestone Project 2 - Walkthrough Steps Workbook-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/08-Milestone Project - 2/.ipynb_checkpoints/03-Milestone Project 2 - Complete Walkthrough Solution-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/09-Empty-Section-Skip/01-Map.ipynb
+Referências/Complete-Python-3-Bootcamp-master/09-Empty-Section-Skip/02-Reduce.ipynb
+Referências/Complete-Python-3-Bootcamp-master/09-Empty-Section-Skip/03-Filter.ipynb
+Referências/Complete-Python-3-Bootcamp-master/09-Empty-Section-Skip/04-Zip.ipynb
+Referências/Complete-Python-3-Bootcamp-master/09-Empty-Section-Skip/05-Enumerate.ipynb
+Referências/Complete-Python-3-Bootcamp-master/09-Empty-Section-Skip/06-all() and any().ipynb
+Referências/Complete-Python-3-Bootcamp-master/09-Empty-Section-Skip/07-Complex.ipynb
+Referências/Complete-Python-3-Bootcamp-master/09-Empty-Section-Skip/08-Built-in Functions Assessment Test.ipynb
+Referências/Complete-Python-3-Bootcamp-master/09-Empty-Section-Skip/09-Built-in Functions Assessment Test - Solution.ipynb
+Referências/Complete-Python-3-Bootcamp-master/09-Empty-Section-Skip/.ipynb_checkpoints/01-Map-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/09-Empty-Section-Skip/.ipynb_checkpoints/02-Reduce-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/09-Empty-Section-Skip/.ipynb_checkpoints/03-Filter-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/09-Empty-Section-Skip/.ipynb_checkpoints/04-Zip-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/09-Empty-Section-Skip/.ipynb_checkpoints/05-Enumerate-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/09-Empty-Section-Skip/.ipynb_checkpoints/06-all() and any()-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/09-Empty-Section-Skip/.ipynb_checkpoints/07-Complex-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/09-Empty-Section-Skip/.ipynb_checkpoints/08-Built-in Functions Assessment Test-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/09-Empty-Section-Skip/.ipynb_checkpoints/09-Built-in Functions Assessment Test - Solution-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/10-Python Decorators/01-Decorators.ipynb
+Referências/Complete-Python-3-Bootcamp-master/10-Python Decorators/02-Decorators Homework.ipynb
+Referências/Complete-Python-3-Bootcamp-master/10-Python Decorators/.ipynb_checkpoints/01-Decorators-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/10-Python Decorators/.ipynb_checkpoints/02-Decorators Homework-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/11-Python Generators/01-Iterators and Generators.ipynb
+Referências/Complete-Python-3-Bootcamp-master/11-Python Generators/02-Iterators and Generators Homework.ipynb
+Referências/Complete-Python-3-Bootcamp-master/11-Python Generators/03-Iterators and Generators Homework - Solution.ipynb
+Referências/Complete-Python-3-Bootcamp-master/11-Python Generators/.ipynb_checkpoints/01-Iterators and Generators-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/11-Python Generators/.ipynb_checkpoints/02-Iterators and Generators Homework-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/11-Python Generators/.ipynb_checkpoints/03-Iterators and Generators Homework - Solution-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/00-Collections-Module.ipynb
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/01-Opening-and-Reading-Files-Folders.ipynb
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/02-Datetime-Module.ipynb
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/03-Math-and-Random-Module.ipynb
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/04-Python Debugger (pdb).ipynb
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/05-Overview-of-Regular-Expressions.ipynb
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/06-Timing your code - timeit.ipynb
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/07-Unzipping-and-Zipping-Files.ipynb
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/.ipynb_checkpoints/00-Collections-Module-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/.ipynb_checkpoints/01-Datetime-Module-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/.ipynb_checkpoints/01-Opening-and-Reading-Files-Folders-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/.ipynb_checkpoints/02-Datetime-Module-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/.ipynb_checkpoints/02-Math-and-Random-Module-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/.ipynb_checkpoints/03-Math-and-Random-Module-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/.ipynb_checkpoints/03-Python Debugger (pdb)-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/.ipynb_checkpoints/04-Python Debugger (pdb)-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/.ipynb_checkpoints/04-Timing your code - timeit-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/.ipynb_checkpoints/05-Overview-of-Regular-Expressions-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/.ipynb_checkpoints/06-Timing your code - timeit-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/.ipynb_checkpoints/06-Unzipping-and-Zipping-Files-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/.ipynb_checkpoints/07-OS-Module-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/.ipynb_checkpoints/07-Unzipping-and-Zipping-Files-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/.ipynb_checkpoints/09-Advanced-Modules-Exercise-Solutions-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/07-Advanced-Modules-Exercise-Puzzle.ipynb
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/08-Advanced-Modules-Exercise-Solutions.ipynb
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/unzip_me_for_instructions.zip
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/.ipynb_checkpoints/07-Advanced-Modules-Exercise-Puzzle-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/.ipynb_checkpoints/08-Advanced-Modules-Exercise-Solutions-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Instructions.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Five/AEITMYIRQLP.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Five/APJKSRITGGX.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Five/AQKATDFGXTS.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Five/ARLKFCWIAJE.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Five/AXJGVPVEFAS.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Five/BNUQEHCFRTG.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Five/BSKJDRNEZQM.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Five/BTYWAHLHKBM.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Five/BUGKBZWRRVI.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Five/BVBURZZCAPR.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Five/CAHBEVSVDDN.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Five/COMGMZBJAYE.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Five/CRFSDGYFSHA.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Five/CSCLFZCDYYC.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Five/CXBVCTRBBIE.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Five/DDLASODUVPX.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Five/DHZBAAYEADM.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Five/DQPZQLBCJYP.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Five/DYOPIIVMZOO.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Five/DZUWWXYIAEL.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Five/EAAOEPSAWMQ.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Five/EIPWXMQZJKU.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Five/ESIZWBHMGDP.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Five/ETCUEXWNBCF.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Five/EYTCGIOYWIW.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Four/ECIOBYCDVFI.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Four/EMTGPSXQEJX.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Four/EPRNUHRSESC.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Four/ESDIZXHYCVY.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Four/EXVQSVBQQQH.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Four/QCTCKDIBBVG.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Four/QCWCFLKNZMN.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Four/QDDETWBHJYC.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Four/QTDYYIFPHAU.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Four/QVNJULGXNUM.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Four/REAXWSOIQDY.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Four/ROICPTWKXDX.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Four/RSXOTNGKBML.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Four/RXDARIDGKBF.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Four/RYNXFYXMKHG.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Four/TAKNAVDMZKV.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Four/THPNEGKTJWI.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Four/TJFMLJODVAD.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Four/TKCZSFQNJTX.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Four/TWUOYFCCYBQ.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Four/WFSKPTXPFCH.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Four/WHTOHQUWXIN.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Four/WNJISWPEBRS.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Four/WXDJDOGZEHN.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Four/WYDLGSGGXKV.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/One/HDOHZHFSTTK.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/One/HFUTPPAXDIS.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/One/HMNZTLIFGPD.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/One/HRQFTHKVJTL.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/One/HVUTZEVMSBW.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/One/JDLRVFCXYLU.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/One/JEHBLZPUPSP.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/One/JLTXKIGCWDL.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/One/JQUOBKFUACN.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/One/JTHSNBNPQSE.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/One/KCXGNQCZBLO.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/One/KFIUZFERLET.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/One/KMMLGJOWLGI.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/One/KNBSKDREHQU.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/One/KTXDHIOKAUI.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/One/LDGOCUQJNNS.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/One/LFEATJAAYDC.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/One/LHODFIKVTQA.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/One/LIFDHOFKWOI.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/One/LPNDVDXPZIG.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/One/PDJMSMNKIRM.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/One/PHWAVPEKAER.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/One/PLYCGPVEAWO.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/One/PQNVCVJINAR.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/One/PTOBBCJYURJ.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Three/VAQIJTDOFUJ.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Three/VCFJCGJFBIH.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Three/VSXFSTABZDY.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Three/VVHFVZUNLOO.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Three/VVKGWLRMHLU.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Three/XAJMCPEWFNI.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Three/XFHJOTNPEJG.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Three/XHZPVUQTXIO.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Three/XJCWENFFGHB.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Three/XVMPVSVYKFR.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Three/YCESZHJDBXH.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Three/YDQFMWXOUMW.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Three/YQBIUHSUEVW.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Three/YQRNCMNFFHW.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Three/YYIZGBTQHZP.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Three/ZEZKKRBIZEB.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Three/ZKQJXAYKPVD.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Three/ZOWVXWPOGWP.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Three/ZXEZRQXZNPG.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Three/ZXIBJMPROKW.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Two/GKQBQRCTNNK.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Two/GMMQQUBMJNR.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Two/GQTJJORZBXY.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Two/GTOTCIWMDBY.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Two/GXYSEPAFRTP.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Two/HARDNJGDRBC.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Two/HEORIXOTANT.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Two/HMUTDOVNYTV.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Two/HMZXPBOPRAE.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Two/HTOHSTYXTCO.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Two/LCJZYDHBFRM.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Two/LSQSTGPIGIY.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Two/LULTNYAQEJG.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Two/LVMBINRBJXL.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Two/LYZEQCVYNEZ.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Two/OHZOUOSFJQC.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Two/OIHMLGMWTHL.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Two/OKWFOOYTXFU.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Two/OMWIMVRCMYM.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Two/OYMAGXAGWHJ.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Two/SIKFPPLCJDN.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Two/SJMJLDGPBSJ.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Two/SOFUJYXTIMK.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Two/SPDZYGDHEWO.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/08-Advanced-Python-Module-Exercise/extracted_content/Two/SWOFXREEHWA.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/Example_Top_Level/Mid-Example.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/Example_Top_Level/Mid-Example-One/Mid-Level-Doc.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/Example_Top_Level/Mid-Example-One/Bottom-Level-One/One_Text.txt
+Referências/Complete-Python-3-Bootcamp-master/12-Advanced Python Modules/Example_Top_Level/Mid-Example-One/Bottom-Level-Two/Bottom-Text-Two.txt
+Referências/Complete-Python-3-Bootcamp-master/13-Web-Scraping/00-Guide-to-Web-Scraping.ipynb
+Referências/Complete-Python-3-Bootcamp-master/13-Web-Scraping/01-Web-Scraping-Exercises.ipynb
+Referências/Complete-Python-3-Bootcamp-master/13-Web-Scraping/02-Web-Scraping-Exercise-Solutions.ipynb
+Referências/Complete-Python-3-Bootcamp-master/13-Web-Scraping/my_new_file_name.jpg
+Referências/Complete-Python-3-Bootcamp-master/13-Web-Scraping/.ipynb_checkpoints/00-Guide-to-Web-Scraping-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/13-Web-Scraping/.ipynb_checkpoints/01-Web-Scraping-Exercises-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/13-Web-Scraping/.ipynb_checkpoints/02-Web-Scraping-Exercise-Solutions-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/14-Working-with-Images/00-Overview-of-Working-with-Images.ipynb
+Referências/Complete-Python-3-Bootcamp-master/14-Working-with-Images/01-Image-Exercise.ipynb
+Referências/Complete-Python-3-Bootcamp-master/14-Working-with-Images/02-Image-Exercise-Solution.ipynb
+Referências/Complete-Python-3-Bootcamp-master/14-Working-with-Images/blue_color.png
+Referências/Complete-Python-3-Bootcamp-master/14-Working-with-Images/example.jpg
+Referências/Complete-Python-3-Bootcamp-master/14-Working-with-Images/mask.png
+Referências/Complete-Python-3-Bootcamp-master/14-Working-with-Images/pencils.jpg
+Referências/Complete-Python-3-Bootcamp-master/14-Working-with-Images/purple.png
+Referências/Complete-Python-3-Bootcamp-master/14-Working-with-Images/red_color.jpg
+Referências/Complete-Python-3-Bootcamp-master/14-Working-with-Images/word_matrix.png
+Referências/Complete-Python-3-Bootcamp-master/14-Working-with-Images/.ipynb_checkpoints/00-Overview-of-Working-with-Images-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/14-Working-with-Images/.ipynb_checkpoints/01-Image-Exercise-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/14-Working-with-Images/.ipynb_checkpoints/02-Image-Exercise-Solution-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/15-PDFs-and-Spreadsheets/00-Working-with-CSV-Files.ipynb
+Referências/Complete-Python-3-Bootcamp-master/15-PDFs-and-Spreadsheets/01-Working-with-PDFs.ipynb
+Referências/Complete-Python-3-Bootcamp-master/15-PDFs-and-Spreadsheets/02-PDFs-Spreadsheets-Puzzle.ipynb
+Referências/Complete-Python-3-Bootcamp-master/15-PDFs-and-Spreadsheets/03-PDFs-Spreadsheets-Puzzle-Solution.ipynb
+Referências/Complete-Python-3-Bootcamp-master/15-PDFs-and-Spreadsheets/example.csv
+Referências/Complete-Python-3-Bootcamp-master/15-PDFs-and-Spreadsheets/makeup_new.csv
+Referências/Complete-Python-3-Bootcamp-master/15-PDFs-and-Spreadsheets/Some_BrandNew_Doc.pdf
+Referências/Complete-Python-3-Bootcamp-master/15-PDFs-and-Spreadsheets/Some_New_Doc.pdf
+Referências/Complete-Python-3-Bootcamp-master/15-PDFs-and-Spreadsheets/Some_new_file.pdf
+Referências/Complete-Python-3-Bootcamp-master/15-PDFs-and-Spreadsheets/to_save_file.csv
+Referências/Complete-Python-3-Bootcamp-master/15-PDFs-and-Spreadsheets/Working_Business_Proposal.pdf
+Referências/Complete-Python-3-Bootcamp-master/15-PDFs-and-Spreadsheets/.ipynb_checkpoints/00-Working-with-CSV-Files-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/15-PDFs-and-Spreadsheets/.ipynb_checkpoints/01-Working-with-PDFs-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/15-PDFs-and-Spreadsheets/.ipynb_checkpoints/02-PDFs-Spreadsheets-Puzzle-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/15-PDFs-and-Spreadsheets/.ipynb_checkpoints/03-PDFs-Spreadsheets-Puzzle-Solution-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/15-PDFs-and-Spreadsheets/Exercise_Files/find_the_link.csv
+Referências/Complete-Python-3-Bootcamp-master/15-PDFs-and-Spreadsheets/Exercise_Files/Find_the_Phone_Number.pdf
+Referências/Complete-Python-3-Bootcamp-master/16-Emailing-with-Python/00-Overview-of-Sending-Emails.ipynb
+Referências/Complete-Python-3-Bootcamp-master/16-Emailing-with-Python/01-Overview-of-Received-Emails.ipynb
+Referências/Complete-Python-3-Bootcamp-master/16-Emailing-with-Python/02-Exercise-Ideas.ipynb
+Referências/Complete-Python-3-Bootcamp-master/16-Emailing-with-Python/.ipynb_checkpoints/00-Overview-of-Sending-Emails-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/16-Emailing-with-Python/.ipynb_checkpoints/01-Overview-of-Received-Emails-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/16-Emailing-with-Python/.ipynb_checkpoints/02-Exercise-Ideas-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/17-Advanced Python Objects and Data Structures/01-Advanced Numbers.ipynb
+Referências/Complete-Python-3-Bootcamp-master/17-Advanced Python Objects and Data Structures/02-Advanced Strings.ipynb
+Referências/Complete-Python-3-Bootcamp-master/17-Advanced Python Objects and Data Structures/03-Advanced Sets.ipynb
+Referências/Complete-Python-3-Bootcamp-master/17-Advanced Python Objects and Data Structures/04-Advanced Dictionaries.ipynb
+Referências/Complete-Python-3-Bootcamp-master/17-Advanced Python Objects and Data Structures/05-Advanced Lists.ipynb
+Referências/Complete-Python-3-Bootcamp-master/17-Advanced Python Objects and Data Structures/06-Advanced Python Objects Test.ipynb
+Referências/Complete-Python-3-Bootcamp-master/17-Advanced Python Objects and Data Structures/07-Advanced Python Objects Test - Solutions.ipynb
+Referências/Complete-Python-3-Bootcamp-master/17-Advanced Python Objects and Data Structures/08-BONUS - With Statement Context Managers.ipynb
+Referências/Complete-Python-3-Bootcamp-master/17-Advanced Python Objects and Data Structures/.ipynb_checkpoints/01-Advanced Numbers-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/17-Advanced Python Objects and Data Structures/.ipynb_checkpoints/02-Advanced Strings-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/17-Advanced Python Objects and Data Structures/.ipynb_checkpoints/03-Advanced Sets-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/17-Advanced Python Objects and Data Structures/.ipynb_checkpoints/04-Advanced Dictionaries-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/17-Advanced Python Objects and Data Structures/.ipynb_checkpoints/05-Advanced Lists-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/17-Advanced Python Objects and Data Structures/.ipynb_checkpoints/06-Advanced Python Objects Test-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/17-Advanced Python Objects and Data Structures/.ipynb_checkpoints/07-Advanced Python Objects Test - Solutions-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/18-Milestone Project - 3/01-Final Capstone Project.ipynb
+Referências/Complete-Python-3-Bootcamp-master/18-Milestone Project - 3/02-Final Capstone Project Ideas.ipynb
+Referências/Complete-Python-3-Bootcamp-master/18-Milestone Project - 3/.ipynb_checkpoints/01-Final Capstone Project-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/18-Milestone Project - 3/.ipynb_checkpoints/02-Final Capstone Project Ideas-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/18-Milestone Project - 3/Projects-Solutions/Solution Links.md
+Referências/Complete-Python-3-Bootcamp-master/19-Bonus Material - Introduction to GUIs/01-Interact.ipynb
+Referências/Complete-Python-3-Bootcamp-master/19-Bonus Material - Introduction to GUIs/02-Widget Basics.ipynb
+Referências/Complete-Python-3-Bootcamp-master/19-Bonus Material - Introduction to GUIs/03-Widget List.ipynb
+Referências/Complete-Python-3-Bootcamp-master/19-Bonus Material - Introduction to GUIs/04-Widget Events.ipynb
+Referências/Complete-Python-3-Bootcamp-master/19-Bonus Material - Introduction to GUIs/05-Widget Styling.ipynb
+Referências/Complete-Python-3-Bootcamp-master/19-Bonus Material - Introduction to GUIs/06-Custom Widget.ipynb
+Referências/Complete-Python-3-Bootcamp-master/19-Bonus Material - Introduction to GUIs/07-Advanced Widget List.ipynb
+Referências/Complete-Python-3-Bootcamp-master/19-Bonus Material - Introduction to GUIs/08-Advanced Widget Styling with Layout.ipynb
+Referências/Complete-Python-3-Bootcamp-master/19-Bonus Material - Introduction to GUIs/.ipynb_checkpoints/01-Interact-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/19-Bonus Material - Introduction to GUIs/.ipynb_checkpoints/02-Widget Basics-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/19-Bonus Material - Introduction to GUIs/.ipynb_checkpoints/03-Widget List-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/19-Bonus Material - Introduction to GUIs/.ipynb_checkpoints/04-Widget Events-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/19-Bonus Material - Introduction to GUIs/.ipynb_checkpoints/05-Widget Styling-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/19-Bonus Material - Introduction to GUIs/.ipynb_checkpoints/06-Custom Widget-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/19-Bonus Material - Introduction to GUIs/.ipynb_checkpoints/07-Advanced Widget List-checkpoint.ipynb
+Referências/Complete-Python-3-Bootcamp-master/19-Bonus Material - Introduction to GUIs/.ipynb_checkpoints/08-Advanced Widget Styling with Layout-checkpoint.ipynb
